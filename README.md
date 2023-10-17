@@ -4,7 +4,7 @@ Hi 👋 My name is Edwin Ramos
 .NET Developer
 --------------
 
-More than 7 years, working with desktop, web and mobile applications.
+More than 8 years, working with desktop, web and mobile applications.
 
 * 🌍  I'm based in Santo Domingo, Dominican Republic
 * ✉️  You can contact me at [edwinramos.93@gmail.com](mailto:edwinramos.93@gmail.com)
